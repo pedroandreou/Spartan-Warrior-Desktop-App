@@ -12,3 +12,9 @@ Run the Project in Microsoft Visual Studio IDE
 
 ## ⚠ Important
 More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#intro)
+
+## Author  
+👨🏼 Petros Andreou
+
+Github: [@Petros](https://github.com/pedroandreou)  
+LinkedIn: [@Petros](https://www.linkedin.com/in/petrosandreou80/)
