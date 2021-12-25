@@ -11,7 +11,7 @@ Run the Project in Microsoft Visual Studio IDE
 
 
 ## ⚠ Important
-More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#intro)
+More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#SpartanWariorDesktopApp)
 
 ## Author  
 👨🏼 Petros Andreou
