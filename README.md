@@ -16,7 +16,7 @@ The player controls a Spartan warrior on a unique mission:
 - Find and collect the key in the basement (triggers special sound effects)
 - Background music evolves from Dragon Ball Z theme to New Zealand's Haka
 - Ultimate goal: Reach the church where Penelope awaits
-- 
+
 ## 🛠 Initialization & Setup
 ```bash
 # Clone the repository
